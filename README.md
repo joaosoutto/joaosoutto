@@ -1,5 +1,5 @@
 ## João Soutto
-### Front-end developer | HTML | CSS | JAVASCRIPT | REACT JS | SQL
+#### _Front-end developer | HTML | CSS | JAVASCRIPT | REACT JS | SQL_
 
 
 <!--
