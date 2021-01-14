@@ -18,7 +18,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
 <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo" width="40" height="40"/>  
 <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css" alt="react" width="40" height="40"/>   
 
   
 
