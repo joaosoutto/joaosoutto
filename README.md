@@ -1,6 +1,5 @@
-### João Soutto
-### https://soutto.herokuapp.com/
-#### ReactJS | JavaScript | HTML | CSS | MySQL | MongoDB | NodeJS | Python | Elixir
+## João Soutto
+### ReactJS | JavaScript | HTML | CSS | MySQL | MongoDB | NodeJS | Python | Elixir
 #### Studying NextJS and TypeScript
 ##### Next studies React Native and Flutter
 #### - Front end developer at [Saraiva](https://www.saraivaeducacao.com.br/)
